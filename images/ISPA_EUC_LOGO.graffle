@@ -53,7 +53,7 @@
 	<array>
 		<dict>
 			<key>Bounds</key>
-			<string>{{161.25, 389}, {86, 24}}</string>
+			<string>{{161.25, 389}, {153, 24}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>FitText</key>
@@ -107,10 +107,10 @@
 				<key>Text</key>
 				<string>{\rtf1\ansi\ansicpg1252\cocoartf1265
 \cocoascreenfonts1{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
-{\colortbl;\red255\green255\blue255;\red0\green0\blue0;}
+{\colortbl;\red255\green255\blue255;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
 
-\f0\b\fs24 \cf2 2014 - MILAN}</string>
+\f0\b\fs24 \cf0 26-28 August 2014, Milan}</string>
 			</dict>
 			<key>Wrap</key>
 			<string>NO</string>
@@ -452,10 +452,10 @@
 				<key>Text</key>
 				<string>{\rtf1\ansi\ansicpg1252\cocoartf1265
 \cocoascreenfonts1{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
-{\colortbl;\red255\green255\blue255;\red0\green0\blue0;}
+{\colortbl;\red255\green255\blue255;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
 
-\f0\b\fs24 \cf2 International Symposium on Parallel and\
+\f0\b\fs24 \cf0 International Symposium on Parallel and\
 Distributed Processing with Applications}</string>
 			</dict>
 			<key>Wrap</key>
@@ -517,17 +517,17 @@ Distributed Processing with Applications}</string>
 				<key>Text</key>
 				<string>{\rtf1\ansi\ansicpg1252\cocoartf1265
 \cocoascreenfonts1{\fonttbl\f0\fswiss\fcharset0 Arial-Black;}
-{\colortbl;\red255\green255\blue255;\red0\green0\blue0;}
+{\colortbl;\red255\green255\blue255;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
 
-\f0\b\fs52 \cf2 IEEE ISPA}</string>
+\f0\b\fs52 \cf0 IEEE ISPA}</string>
 			</dict>
 			<key>Wrap</key>
 			<string>NO</string>
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{203.5, 540.5}, {124, 32}}</string>
+			<string>{{203.5, 540.5}, {224, 32}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>FitText</key>
@@ -581,10 +581,10 @@ Distributed Processing with Applications}</string>
 				<key>Text</key>
 				<string>{\rtf1\ansi\ansicpg1252\cocoartf1265
 \cocoascreenfonts1{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
-{\colortbl;\red255\green255\blue255;\red0\green0\blue0;}
+{\colortbl;\red255\green255\blue255;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
 
-\f0\b\fs36 \cf2 2014 - MILAN}</string>
+\f0\b\fs36 \cf0 26-28 August 2014, Milan}</string>
 			</dict>
 			<key>Wrap</key>
 			<string>NO</string>
@@ -645,10 +645,10 @@ Distributed Processing with Applications}</string>
 				<key>Text</key>
 				<string>{\rtf1\ansi\ansicpg1252\cocoartf1265
 \cocoascreenfonts1{\fonttbl\f0\fswiss\fcharset0 Helvetica-Light;}
-{\colortbl;\red255\green255\blue255;\red0\green0\blue0;}
+{\colortbl;\red255\green255\blue255;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
 
-\f0\fs52 \cf2 Embedded and\
+\f0\fs52 \cf0 Embedded and\
 Ubiquitous Computing}</string>
 			</dict>
 			<key>Wrap</key>
@@ -850,7 +850,7 @@ Ubiquitous Computing}</string>
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{157.25, 99.5}, {86, 24}}</string>
+			<string>{{157.25, 99.5}, {153, 24}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>FitText</key>
@@ -905,18 +905,18 @@ Ubiquitous Computing}</string>
 				<data>
 				BAtzdHJlYW10eXBlZIHoA4QBQISEhBJOU0F0dHJpYnV0
 				ZWRTdHJpbmcAhIQITlNPYmplY3QAhZKEhIQITlNTdHJp
-				bmcBlIQBKwwyMDE0IC0gTUlMQU6GhAJpSQEMkoSEhAxO
-				U0RpY3Rpb25hcnkAlIQBaQOShJaWB05TQ29sb3KGkoSE
-				hAdOU0NvbG9yAJSEAWMChARmZmZmg6moqD6DiIcHP4PG
-				xEQ/AYaShJaWEE5TUGFyYWdyYXBoU3R5bGWGkoSEhBBO
-				U1BhcmFncmFwaFN0eWxlAJSEBENDQFMAAISEhAdOU0Fy
-				cmF5AJSZDJKEhIQJTlNUZXh0VGFiAJSEAkNmAByGkoSi
-				oQA4hpKEoqEAVIaShKKhAHCGkoSioQCBjACGkoSioQCB
-				qACGkoSioQCBxACGkoSioQCB4ACGkoSioQCB/ACGkoSi
-				oQCBGAGGkoSioQCBNAGGkoSioQCBUAGGhgCGkoSWlgZO
-				U0ZvbnSGkoSEhAZOU0ZvbnQelJkohAVbNDBjXQYAAAAe
-				AAAA//5IAGUAbAB2AGUAdABpAGMAYQAtAEIAbwBsAGQA
-				AACEAWYMmwCbAZsAmwCGhoY=
+				bmcBlIQBKxgyNi0yOCBBdWd1c3QgMjAxNCwgTWlsYW6G
+				hAJpSQEYkoSEhAxOU0RpY3Rpb25hcnkAlIQBaQOShJaW
+				B05TQ29sb3KGkoSEhAdOU0NvbG9yAJSEAWMChARmZmZm
+				g6moqD6DiIcHP4PGxEQ/AYaShJaWEE5TUGFyYWdyYXBo
+				U3R5bGWGkoSEhBBOU1BhcmFncmFwaFN0eWxlAJSEBEND
+				QFMAAISEhAdOU0FycmF5AJSZDJKEhIQJTlNUZXh0VGFi
+				AJSEAkNmAByGkoSioQA4hpKEoqEAVIaShKKhAHCGkoSi
+				oQCBjACGkoSioQCBqACGkoSioQCBxACGkoSioQCB4ACG
+				koSioQCB/ACGkoSioQCBGAGGkoSioQCBNAGGkoSioQCB
+				UAGGhgCGkoSWlgZOU0ZvbnSGkoSEhAZOU0ZvbnQelJko
+				hAVbNDBjXQYAAAAeAAAA//5IAGUAbAB2AGUAdABpAGMA
+				YQAtAEIAbwBsAGQAAACEAWYMmwCbAZsAmwCGhoY=
 				</data>
 				<key>Text</key>
 				<string>{\rtf1\ansi\ansicpg1252\cocoartf1265
@@ -924,7 +924,7 @@ Ubiquitous Computing}</string>
 {\colortbl;\red255\green255\blue255;\red68\green114\blue183;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
 
-\f0\b\fs24 \cf2 2014 - MILAN}</string>
+\f0\b\fs24 \cf2 26-28 August 2014, Milan}</string>
 			</dict>
 			<key>Wrap</key>
 			<string>NO</string>
@@ -955,7 +955,7 @@ Ubiquitous Computing}</string>
 				<real>22</real>
 			</dict>
 			<key>ID</key>
-			<integer>75</integer>
+			<integer>94</integer>
 			<key>Shape</key>
 			<string>Rectangle</string>
 			<key>Style</key>
@@ -1377,7 +1377,7 @@ Distributed Processing with Applications}</string>
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{199.5, 251}, {124, 32}}</string>
+			<string>{{199.5, 251}, {224, 32}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>FitText</key>
@@ -1432,18 +1432,18 @@ Distributed Processing with Applications}</string>
 				<data>
 				BAtzdHJlYW10eXBlZIHoA4QBQISEhBJOU0F0dHJpYnV0
 				ZWRTdHJpbmcAhIQITlNPYmplY3QAhZKEhIQITlNTdHJp
-				bmcBlIQBKwwyMDE0IC0gTUlMQU6GhAJpSQEMkoSEhAxO
-				U0RpY3Rpb25hcnkAlIQBaQOShJaWB05TQ29sb3KGkoSE
-				hAdOU0NvbG9yAJSEAWMChARmZmZmg/b0dD6DhYQEP4Op
-				qKg+AYaShJaWEE5TUGFyYWdyYXBoU3R5bGWGkoSEhBBO
-				U1BhcmFncmFwaFN0eWxlAJSEBENDQFMAAISEhAdOU0Fy
-				cmF5AJSZDJKEhIQJTlNUZXh0VGFiAJSEAkNmAByGkoSi
-				oQA4hpKEoqEAVIaShKKhAHCGkoSioQCBjACGkoSioQCB
-				qACGkoSioQCBxACGkoSioQCB4ACGkoSioQCB/ACGkoSi
-				oQCBGAGGkoSioQCBNAGGkoSioQCBUAGGhgCGkoSWlgZO
-				U0ZvbnSGkoSEhAZOU0ZvbnQelJkohAVbNDBjXQYAAAAe
-				AAAA//5IAGUAbAB2AGUAdABpAGMAYQAtAEIAbwBsAGQA
-				AACEAWYSmwCbAZsAmwCGhoY=
+				bmcBlIQBKxgyNi0yOCBBdWd1c3QgMjAxNCwgTWlsYW6G
+				hAJpSQEYkoSEhAxOU0RpY3Rpb25hcnkAlIQBaQOShJaW
+				B05TQ29sb3KGkoSEhAdOU0NvbG9yAJSEAWMChARmZmZm
+				g/b0dD6DhYQEP4OpqKg+AYaShJaWEE5TUGFyYWdyYXBo
+				U3R5bGWGkoSEhBBOU1BhcmFncmFwaFN0eWxlAJSEBEND
+				QFMAAISEhAdOU0FycmF5AJSZDJKEhIQJTlNUZXh0VGFi
+				AJSEAkNmAByGkoSioQA4hpKEoqEAVIaShKKhAHCGkoSi
+				oQCBjACGkoSioQCBqACGkoSioQCBxACGkoSioQCB4ACG
+				koSioQCB/ACGkoSioQCBGAGGkoSioQCBNAGGkoSioQCB
+				UAGGhgCGkoSWlgZOU0ZvbnSGkoSEhAZOU0ZvbnQelJko
+				hAVbNDBjXQYAAAAeAAAA//5IAGUAbAB2AGUAdABpAGMA
+				YQAtAEIAbwBsAGQAAACEAWYSmwCbAZsAmwCGhoY=
 				</data>
 				<key>Text</key>
 				<string>{\rtf1\ansi\ansicpg1252\cocoartf1265
@@ -1451,7 +1451,7 @@ Distributed Processing with Applications}</string>
 {\colortbl;\red255\green255\blue255;\red49\green115\blue66;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
 
-\f0\b\fs36 \cf2 2014 - MILAN}</string>
+\f0\b\fs36 \cf2 26-28 August 2014, Milan}</string>
 			</dict>
 			<key>Wrap</key>
 			<string>NO</string>
@@ -1817,7 +1817,7 @@ Ubiquitous Computing}</string>
 	<key>MasterSheets</key>
 	<array/>
 	<key>ModificationDate</key>
-	<string>2013-11-02 18:03:51 +0000</string>
+	<string>2013-11-03 20:33:44 +0000</string>
 	<key>Modifier</key>
 	<string>Alessandro Nacci</string>
 	<key>NotesVisible</key>
