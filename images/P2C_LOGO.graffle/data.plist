@@ -2243,6 +2243,38 @@ COMPUTING WEEK}</string>
 			<key>VFlip</key>
 			<string>YES</string>
 		</dict>
+		<dict>
+			<key>Bounds</key>
+			<string>{{4.4519699469920226, 1}, {107.14039150320329, 64}}</string>
+			<key>Class</key>
+			<string>ShapedGraphic</string>
+			<key>HFlip</key>
+			<string>YES</string>
+			<key>ID</key>
+			<integer>120</integer>
+			<key>Shape</key>
+			<string>Rectangle</string>
+			<key>Style</key>
+			<dict>
+				<key>fill</key>
+				<dict>
+					<key>Draws</key>
+					<string>NO</string>
+				</dict>
+				<key>shadow</key>
+				<dict>
+					<key>Draws</key>
+					<string>NO</string>
+				</dict>
+				<key>stroke</key>
+				<dict>
+					<key>Draws</key>
+					<string>NO</string>
+				</dict>
+			</dict>
+			<key>VFlip</key>
+			<string>YES</string>
+		</dict>
 	</array>
 	<key>GridInfo</key>
 	<dict/>
@@ -2301,7 +2333,7 @@ COMPUTING WEEK}</string>
 	<key>MasterSheets</key>
 	<array/>
 	<key>ModificationDate</key>
-	<string>2013-11-03 23:01:26 +0000</string>
+	<string>2013-11-03 23:04:35 +0000</string>
 	<key>Modifier</key>
 	<string>Alessandro Nacci</string>
 	<key>NotesVisible</key>
