@@ -29,7 +29,16 @@
       <div class="header">
         <ul class="nav nav-pills pull-right">
           <li><a href="index.html">Home</a></li>
-          <li><a href="events.html">Events</a></li>
+
+          <li class="dropdown">
+            <a class="dropdown-toggle" id="drop4" role="button" data-toggle="dropdown" href="events.html">Events <b class="caret"></b></a>
+            <ul id="menu1" class="dropdown-menu" role="menu" aria-labelledby="drop4">
+              <li role="presentation"><a role="menuitem" tabindex="-1" href="events_conferences.html">Main conferences</a></li>
+              <li role="presentation"><a role="menuitem" tabindex="-1" href="events_workshops.html">Workshops</a></li>
+              <li role="presentation"><a role="menuitem" tabindex="-1" href="events_social.html">Social events</a></li>
+            </ul>
+          </li>
+
           <li><a href="registration.html">Registration</a></li>
           <li><a href="local_information.html">Local information</a></li>
         </ul>
