@@ -1,0 +1,33 @@
+
+27-Aug 09.00AM -- NEW TALK ANNOUCEMENT
+—------------------------------------------------------------
+During the EUC “High Level Synthesis” Special Session there
+will be a new talk by Xilinx titled
+
+	“Let's Talk About the Xilinx University Program” 
+
+The session starts at h 14.45, 27 Aug, Room S12.
+
+26-Aug 09.00AM -- EMPATICA WORKSHOP RESCHEDULED
+—------------------------------------------------------------
+
+The Empatica Workshop has been rescheduled to Friday 29 Aug.
+
+13:30 - 14:00 Overview of the E3 wristband
+14:00 - 15:00 Overview of the E3 system and API
+15:00 - 15:30 Live testing with Empatica API (*)
+15:30 - 16:00 Break
+16:00 - 17:30 (continued) Live testing with Empatica API (*)
+
+(*) devices will be available
+
+Info: http://p2cweek.necst.it/events_workshops_empatica.html
+
+24-Aug 11.30AM -- SESSION SCHEDULE CHANGED
+—------------------------------------------------------------
+We would like to inform you that the hours of sessions of
+the 26th have been changed due to last-minute problems of 
+few authors that are not able to attend. New schedule:
+
+ - “Applications”, From 2:15pm to 4:15pm. Aug-26
+ - “Parallel Workloads”, From 4:45pm to 6:15pm.  Aug-26
